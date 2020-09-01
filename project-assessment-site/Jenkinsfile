@@ -45,7 +45,7 @@ spec:
   environment {
     DOCKER_NAMESPACE = 'ma404'
     SERVICE_NAME = 'project-assessment-site'
-    TOKEN=credentials('e6a0182d-1e95-4032-b6e1-4aa9732774f5')
+    TOKEN=credentials('f9801da9-2a7d-4658-9e71-5c7d52feb25e')
   }
   stages {
       stage("Build") {
